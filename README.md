@@ -35,7 +35,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## NMAP:
-![IMG-20240313-WA0009](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/f8c5195f-758a-4569-9405-f6a9617d83c1)
+![Uploading 312505746-f8c5195f-758a-4569-9405-f6a9617d83c1.jpg…]()
+
 
 
 ## WHATWEB:
@@ -44,7 +45,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![IMG-20240313-WA0012](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/633d0fce-7259-431f-8060-ec69f8d7b89e)
 
 ## TRACEROUTE:
-![IMG-20240313-WA0011](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/aeb14c92-2d55-47d7-a8cd-d6c07e528fea)
+![312505947-aeb14c92-2d55-47d7-a8cd-d6c07e528fea](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/d7ff5fd2-bbf2-4522-9fd1-b7ae5e679ff9)
 
 ![IMG-20240313-WA0013](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/2836ce5e-6231-4934-af42-ec2713f82e36)
 
