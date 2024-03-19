@@ -35,7 +35,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## NMAP:
-![Uploading 312505746-f8c5195f-758a-4569-9405-f6a9617d83c1.jpg…]()
+![WhatsApp Image 2024-03-13 at 20 11 05_694f9456](https://github.com/chandrumathiyazhagan/InformationGathering/assets/119393023/ab12d5bb-e58c-4cc3-a87c-7c5b9092bdb9)
+
 
 
 
